@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import Typography from '@ironsource/shared-ui/typography';
 import HelloWorld from './components/HelloWorld.vue'
 </script>
 
@@ -11,6 +12,11 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
+  <br>
+  <Typography variant="chart1">SharedUI Typography component variant - chart1</Typography>
+  <br><br>
+  <div class="font-title">CSS class font-title</div>
+  <br>
   <HelloWorld msg="Vite + Vue" />
 </template>
 
