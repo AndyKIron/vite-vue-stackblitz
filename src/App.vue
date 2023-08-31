@@ -16,6 +16,6 @@ import Wrapper from './components/Wrapper.vue';
   padding: 2rem;
   margin: auto;
   border: $border;
-  width: 978px;
+  width: calc(100wh - 100px);
 }
 </style>
