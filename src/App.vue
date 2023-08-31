@@ -1,8 +1,5 @@
 <script setup lang="ts">
-import Wrapper from './components/Wrapper.vue'
-
-// import Banner from '@ironsource/shared-ui/banner';
-
+import Wrapper from './components/Wrapper.vue';
 </script>
 
 <template>
@@ -14,7 +11,7 @@ import Wrapper from './components/Wrapper.vue'
 <style scoped lang="scss">
 @import '../node_modules/@ironsource/shared-ui/styleguide.scss';
 
-.wrapper-placeholder{
+.wrapper-placeholder {
   text-align: initial;
   padding: 2rem;
   margin: auto;

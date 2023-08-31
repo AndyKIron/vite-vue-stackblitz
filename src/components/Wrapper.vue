@@ -1,6 +1,5 @@
 <script setup lang="ts">
-import { ref } from "vue";
-// @ts-ignore TODO: fix this
+import { ref } from 'vue';
 import Banner from '@ironsource/shared-ui/banner';
 </script>
 
