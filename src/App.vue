@@ -10,12 +10,12 @@ import Wrapper from './components/Wrapper.vue';
 
 <style scoped lang="scss">
 @import '../node_modules/@ironsource/shared-ui/styleguide.scss';
+@import '../node_modules/@ironsource/shared-ui/styles/levelplay/fonts';
 
 .wrapper-placeholder {
-  text-align: initial;
+  @extend %font-body-1;
   padding: 2rem;
   margin: auto;
-  border: $border;
-  width: calc(100wh - 100px);
+  //border: $border;
 }
 </style>
