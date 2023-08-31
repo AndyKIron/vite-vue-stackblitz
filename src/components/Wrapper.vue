@@ -7,7 +7,3 @@ import Banner from '@ironsource/shared-ui/banner';
 <template>
   <Banner>This is a banner!</Banner>
 </template>
-
-<style scoped>
-
-</style>
