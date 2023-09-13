@@ -1,6 +1,6 @@
 import { createApp } from 'vue';
 
-// import '../node_modules/@ironsource/shared-ui/styles/levelplay/fonts.css';
+import 'shared-ui-andyk/styles/global.css';
 
 import './style.css';
 import App from './App.vue';

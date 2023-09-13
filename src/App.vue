@@ -9,13 +9,11 @@ import Wrapper from './components/Wrapper.vue';
 </template>
 
 <style scoped lang="scss">
-/*@import '../node_modules/@ironsource/shared-ui/styleguide.scss';
-@import '../node_modules/@ironsource/shared-ui/styles/levelplay/fonts';
+@import 'shared-ui-andyk/styles/scss/fonts';
 
 .wrapper-placeholder {
   @extend %font-body-1;
   padding: 2rem;
   margin: auto;
-  //border: $border;
-}*/
+}
 </style>
