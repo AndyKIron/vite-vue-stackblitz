@@ -9,7 +9,7 @@ import Wrapper from './components/Wrapper.vue';
 </template>
 
 <style scoped lang="scss">
-@import '../node_modules/@ironsource/shared-ui/styleguide.scss';
+/*@import '../node_modules/@ironsource/shared-ui/styleguide.scss';
 @import '../node_modules/@ironsource/shared-ui/styles/levelplay/fonts';
 
 .wrapper-placeholder {
@@ -17,5 +17,5 @@ import Wrapper from './components/Wrapper.vue';
   padding: 2rem;
   margin: auto;
   //border: $border;
-}
+}*/
 </style>

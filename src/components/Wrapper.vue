@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { ref } from 'vue';
-import Banner from '@ironsource/shared-ui/banner';
+// import {Button} from "../../node_modules/shared-ui-andyk/components/button";
 </script>
 
 <template>
-  <Banner>This is a banner!</Banner>
+  <h1>Test</h1>
+<!--  <Button label="Click me" primary></Button>-->
 </template>
