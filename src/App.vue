@@ -9,10 +9,10 @@ import Wrapper from './components/Wrapper.vue';
 </template>
 
 <style scoped lang="scss">
-@import 'shared-ui-andyk/styles/scss/fonts';
+// Shared lib styleguide v3
+@import '../node_modules/@ironsource/shared-ui/styleguide.scss';
 
 .wrapper-placeholder {
-  @extend %font-body-1;
   padding: 2rem;
   margin: auto;
 }

@@ -1,8 +1,7 @@
 <script setup lang="ts">
-import {Button} from "shared-ui-andyk";
+import Button from "@ironsource/shared-ui/button"
 </script>
 
 <template>
-  <p>placeholder</p>
-  <Button label="Click me!" primary></Button>
+  <Button label="Click me!" primary>I am a button</Button>
 </template>
